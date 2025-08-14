@@ -50,7 +50,7 @@
 ## 🚀 使用方法
 
 ### 在线使用
-直接访问 GitHub Pages：[https://zj699.github.io/learning-dashboard](https://zj699.github.io/learning-dashboard)
+直接访问 GitHub Pages：(https://zj699.github.io/20250814)
 
 ### 本地使用
 1. 克隆仓库：
