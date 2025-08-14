@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(start \"\" \"C:\\Users\\leoji\\.claude\\projects\\20250814\\learning_dashboard.html\")",
+      "Bash(copy learning_dashboard.html index.html)",
+      "Bash(cp:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
