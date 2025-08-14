@@ -50,12 +50,12 @@
 ## 🚀 使用方法
 
 ### 在线使用
-直接访问 GitHub Pages：[https://[your-username].github.io/learning-dashboard](https://[your-username].github.io/learning-dashboard)
+直接访问 GitHub Pages：[https://zj699.github.io/learning-dashboard](https://zj699.github.io/learning-dashboard)
 
 ### 本地使用
 1. 克隆仓库：
 ```bash
-git clone https://github.com/[your-username]/learning-dashboard.git
+git clone https://github.com/zj699/learning-dashboard.git
 ```
 
 2. 直接打开 `index.html` 文件
