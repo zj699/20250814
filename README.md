@@ -55,7 +55,7 @@
 ### 本地使用
 1. 克隆仓库：
 ```bash
-git clone https://github.com/zj699/learning-dashboard.git
+git clone https://github.com/zj699/20250814.git
 ```
 
 2. 直接打开 `index.html` 文件
